@@ -1,6 +1,6 @@
 _schema-version: "2.1"
 ID: HANA_DB
-version: 0.1.2
+version: 0.1.3
 modules:
 - name: db
   type: hdb
